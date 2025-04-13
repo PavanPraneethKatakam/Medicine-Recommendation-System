@@ -125,7 +125,7 @@ Located in the `datasets/` folder:
 ---
 ## Interface 
 ## Interface 
-![Home Page](https://raw.githubusercontent.com/PavanPraneethKatakam/Medicine-Recommendation-System/main/static/Screenshot%202025-04-13%20at%2023.08.13.png)
+![Home Page](static/Screenshot%202025-04-13%20at%2023.08.24.png)
 ![Results](https://raw.githubusercontent.com/PavanPraneethKatakam/Medicine-Recommendation-System/main/static/Screenshot%202025-04-13%20at%2023.08.24.png)
 
 ## 🙌 Acknowledgements
