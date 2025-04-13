@@ -122,11 +122,10 @@ Located in the `datasets/` folder:
 - Trained using **Support Vector Classifier** (SVM).
 - Saved in `models/svc.pkl`.
 - Uses hardcoded `symptoms_dict` and `diseases_list` for inference.
-Medicine-Recommendation-System/static/Screenshot 2025-04-13 at 23.08.24.png
 ---
 ## Interface 
 ![Home Page](Medicine-Recommendation-System/static/Screenshot 2025-04-13 at 23.08.13.png)
-![ Results]()
+![ Results](Medicine-Recommendation-System/static/Screenshot 2025-04-13 at 23.08.24.png)
 
 ## 🙌 Acknowledgements
 
