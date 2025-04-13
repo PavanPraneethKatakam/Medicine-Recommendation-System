@@ -124,8 +124,9 @@ Located in the `datasets/` folder:
 - Uses hardcoded `symptoms_dict` and `diseases_list` for inference.
 ---
 ## Interface 
-![Home Page](static/Screenshot 2025-04-13 at 23.08.13.png)
-![ Results](static/Screenshot 2025-04-13 at 23.08.24.png)
+## Interface 
+![Home Page](https://raw.githubusercontent.com/PavanPraneethKatakam/Medicine-Recommendation-System/main/static/Screenshot%202025-04-13%20at%2023.08.13.png)
+![Results](https://raw.githubusercontent.com/PavanPraneethKatakam/Medicine-Recommendation-System/main/static/Screenshot%202025-04-13%20at%2023.08.24.png)
 
 ## 🙌 Acknowledgements
 
